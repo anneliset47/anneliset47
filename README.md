@@ -4,7 +4,7 @@ I'm a **Data Scientist** based in Raleigh, NC, currently working in the **biomed
 
 I enjoy transforming messy datasets into actionable insights through **ML models, predictive analytics, and dashboards**. My work often centers on **A/B testing, experiment design, reporting & insights, and defining new metrics**.  
 
-<u>**🛠️ Tools & Skills**</u>
+<ins>**🛠️ Tools & Skills**</ins>
 
 **Languages & Databases**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -19,7 +19,7 @@ I enjoy transforming messy datasets into actionable insights through **ML models
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?logo=googledatastudio&logoColor=white)
 ![Adobe Analytics](https://img.shields.io/badge/Adobe%20Analytics-FF0000?logo=adobe&logoColor=white)
 
-<u>**📫 Connect with Me**</u>  
+<ins>**📫 Connect with Me**</ins>  
 - [LinkedIn](https://www.linkedin.com/in/annelisethorn/)
 - [Email](mailto:anneliset47@gmail.com)
 - [Portolio](annelisethorn.com)
