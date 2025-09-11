@@ -1,21 +1,3 @@
-# 👋 Hi, I’m Annelise Thorn
-
-💼 I'm a data scientist based in Raleigh, NC. I am currently working in the biomedical informatics industry.
-
-👀 I’m interested in analysis and prediction related to product analytics and user experiences. My work typically focuses on A/B (hypothesis) testing, predictive analytics, reporting & insights, and defining new metrics. The tools I primarily use are Python, R, SQL, Tableau, and Adobe Analytics.
-
-📚 Welcome to my github portfolio, where I showcase my projects.
-
-🛠️ Tools
-- Language: SQL, Python, R
-- Database: Google BigQuery, PostgreSQL, MySQL
-- Visualization: Tableau, Looker Studio
-
-📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/annelisethorn/)
-- [Email](mailto:anneliset47@gmail.com)
-
-
 # 👋 Hi, I’m Annelise Thorn  
 
 💼 I'm a **Data Scientist** based in Raleigh, NC, currently working in the **biomedical informatics** industry.  
@@ -71,12 +53,6 @@ Python functions for experiment design, simulation, and results evaluation.
 ---
 
 ## 📫 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/annelisethorn)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anneliset47@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white)](https://annelisethorn.com)  
-
----
-
-![Annelise's GitHub stats](https://github-readme-stats.vercel.app/api?username=anneliset47&show_icons=true&theme=default)  
-![Profile views](https://komarev.com/ghpvc/?username=anneliset47)
+- [LinkedIn](https://www.linkedin.com/in/annelisethorn/)
+- [Email](mailto:anneliset47@gmail.com)
+- [Portolio](annelisethorn.com)
