@@ -14,6 +14,6 @@
 
 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/annelisethorn/)
-- 
+- [Email](anneliset47@gmail.com)
 
 
