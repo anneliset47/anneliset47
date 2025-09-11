@@ -5,6 +5,7 @@
 👀 I’m interested in analysis and prediction related to product analytics and user experiences. My work typically focuses on A/B (hypothesis) testing, predictive analytics, reporting & insights, and defining new metrics. The tools I primarily use are Python, R, SQL, Tableau, and Adobe Analytics.
 
 📚 Projects
+
 Welcome to my portfolio, where I showcase my projects.
 
 🛠️ Tools
