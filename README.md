@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi, I’m Annelise Thorn.
 
-<!--
-**anneliset47/anneliset47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 I'm a data scientist based in Raleigh, currently working in the bioinformatics industry.
 
-Here are some ideas to get you started:
+👀 I’m interested in analysis and prediction related to product analytics and user experiences. My work typically focuses on A/B (hypothesis) testing, predictive analytics, reporting & insights, and defining new metrics. The tools I primarily use are Python, R, SQL, Tableau, and Adobe Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I recently worked on measuring user effort and friction and understanding how this impacts the bottom line of a business.
+
+💞️ I enjoy building communities in analytics & tech. I'm an ambassador with Women in Data Science and help organize the annual WiDS Chicago conference.
+
+📝 I share my thoughts on Medium, especially on how to break into the analytics field and how to network effectively. I also occasionally present at conferences.
+
+📫 How to reach me: Message me on LinkedIn.
