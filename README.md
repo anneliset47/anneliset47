@@ -8,12 +8,10 @@
 - Welcome to my portfolio, where I showcase my projects.
 
 🛠️ Tools
-- Language: SQL, Python
+- Language: SQL, Python, R
 - Database: Google BigQuery, PostgreSQL, MySQL
 - Visualization: Tableau, Looker Studio
 
 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/annelisethorn/)
 - [Email](mailto:anneliset47@gmail.com)
-
-
