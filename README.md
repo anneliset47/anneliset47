@@ -10,4 +10,4 @@
 
 📝 I share my thoughts on Medium, especially on how to break into the analytics field and how to network effectively. I also occasionally present at conferences.
 
-📫 How to reach me: Message me on LinkedIn.
+📫 How to reach me: Message me on [LinkedIn]([url](https://www.linkedin.com/in/annelisethorn/)).
