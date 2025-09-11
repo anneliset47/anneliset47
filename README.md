@@ -4,15 +4,11 @@
 
 I enjoy transforming messy datasets into actionable insights through **ML models, predictive analytics, and dashboards**. My work often centers on **A/B testing, experiment design, reporting & insights, and defining new metrics**.  
 
----
-
 ## 👀 Interests  
 - Product analytics and user experience research  
 - Hypothesis testing & experiment design  
 - Predictive modeling and statistical analysis  
 - Data visualization and storytelling  
-
----
 
 ## 🛠️ Tools & Skills  
 
@@ -29,8 +25,6 @@ I enjoy transforming messy datasets into actionable insights through **ML models
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?logo=googledatastudio&logoColor=white)
 ![Adobe Analytics](https://img.shields.io/badge/Adobe%20Analytics-FF0000?logo=adobe&logoColor=white)
 
----
-
 ## 📚 Featured Projects  
 
 🔹 [**Customer Retention Prediction**](https://github.com/anneliset47/customer-retention)  
@@ -42,13 +36,9 @@ Interactive dashboards for business KPIs and user behavior tracking.
 🔹 [**A/B Test Analysis Toolkit**](https://github.com/anneliset47/ab-testing)  
 Python functions for experiment design, simulation, and results evaluation.  
 
----
-
 ## 🌱 Currently Learning  
 - Deep learning with TensorFlow  
 - Experimentation platforms and Bayesian A/B testing  
- 
----
 
 ## 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/annelisethorn/)
