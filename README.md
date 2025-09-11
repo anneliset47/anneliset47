@@ -4,4 +4,16 @@
 
 👀 I’m interested in analysis and prediction related to product analytics and user experiences. My work typically focuses on A/B (hypothesis) testing, predictive analytics, reporting & insights, and defining new metrics. The tools I primarily use are Python, R, SQL, Tableau, and Adobe Analytics.
 
-📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/annelisethorn/).
+📚 Projects
+Welcome to my portfolio, where I showcase my projects.
+
+🛠️ Tools
+- Language: SQL, Python
+- Database: Google BigQuery, PostgreSQL, MySQL
+- Visualization: Tableau, Looker Studio
+
+📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/annelisethorn/)
+- 
+
+
