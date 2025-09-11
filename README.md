@@ -47,9 +47,7 @@ Python functions for experiment design, simulation, and results evaluation.
 ## 🌱 Currently Learning  
 - Deep learning with TensorFlow  
 - Experimentation platforms and Bayesian A/B testing  
-
-⚡ **Fun fact**: I love solving puzzles — both data-related and jigsaw!  
-
+ 
 ---
 
 ## 📫 Connect with Me  
