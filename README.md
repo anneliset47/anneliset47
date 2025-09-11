@@ -4,12 +4,6 @@
 
 I enjoy transforming messy datasets into actionable insights through **ML models, predictive analytics, and dashboards**. My work often centers on **A/B testing, experiment design, reporting & insights, and defining new metrics**.  
 
-## 👀 Interests  
-- Product analytics and user experience research  
-- Hypothesis testing & experiment design  
-- Predictive modeling and statistical analysis  
-- Data visualization and storytelling  
-
 ## 🛠️ Tools & Skills  
 
 **Languages & Databases**  
