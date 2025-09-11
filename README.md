@@ -1,4 +1,4 @@
-👋 Hi, I’m Annelise Thorn.
+# 👋 Hi, I’m Annelise Thorn.
 
 💼 I'm a data scientist based in Raleigh, currently working in the bioinformatics industry.
 
