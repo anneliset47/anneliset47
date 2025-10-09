@@ -21,4 +21,4 @@ I enjoy transforming messy datasets into actionable insights through **ML models
 <ins>**📫 Connect with Me**</ins>  
 - [LinkedIn](https://www.linkedin.com/in/annelisethorn/)
 - [Email](mailto:anneliset47@gmail.com)
-- [Portolio](annelisethorn.com)
+- [Portfolio](annelisethorn.com)
