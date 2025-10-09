@@ -12,8 +12,8 @@ I enjoy transforming messy datasets into actionable insights through **ML models
 ![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=sqlite)
 
 **Visualization & Analytics**  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=microsoftpowerbi&logoColor=black&style=flat)
 
 <ins>**📫 Connect with Me**</ins>  
 - [LinkedIn](https://www.linkedin.com/in/annelisethorn/)
