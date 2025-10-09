@@ -10,13 +10,10 @@ I enjoy transforming messy datasets into actionable insights through **ML models
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![R](https://img.shields.io/badge/R-gray?logo=r)
 ![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=sqlite)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white)
 
 **Visualization & Analytics**  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?logo=looker&logoColor=white)
-![Adobe Analytics](https://img.shields.io/badge/Adobe%20Analytics-FF0000?logo=adobe&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 
 <ins>**📫 Connect with Me**</ins>  
 - [LinkedIn](https://www.linkedin.com/in/annelisethorn/)
