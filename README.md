@@ -7,16 +7,15 @@ I enjoy transforming messy datasets into actionable insights through **ML models
 <ins>**🛠️ Tools & Skills**</ins>
 
 **Languages & Databases**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?logo=googlebigquery&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![R](https://img.shields.io/badge/R-gray?logo=r)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=sqlite)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white)
 
 **Visualization & Analytics**  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?logo=googledatastudio&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?logo=looker&logoColor=white)
 ![Adobe Analytics](https://img.shields.io/badge/Adobe%20Analytics-FF0000?logo=adobe&logoColor=white)
 
 <ins>**📫 Connect with Me**</ins>  
