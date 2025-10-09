@@ -11,6 +11,7 @@ I enjoy transforming messy datasets into actionable insights through **ML models
 ![R](https://img.shields.io/badge/R-gray?logo=r)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white&style=flat)
+![Unix](https://img.shields.io/badge/Unix-000000?logo=unix&logoColor=white&style=flat)
 ![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=sqlite)
 
 **Visualization & Analytics**  
