@@ -2,7 +2,7 @@
 
 I'm a **Data Scientist** based in Raleigh, NC, currently working in the **biomedical informatics** industry.  
 
-I enjoy transforming messy datasets into actionable insights through **ML models, predictive analytics, and dashboards**. My work often centers on **A/B testing, experiment design, reporting & insights, and defining new metrics**.  
+I enjoy transforming messy datasets into actionable insights through **ML models, predictive analytics, and dashboards**. My work often centers on **experiment design, reporting & insights, and defining new metrics**.  
 
 <ins>**🛠️ Tools & Skills**</ins>
 
